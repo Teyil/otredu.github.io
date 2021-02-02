@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fanikauppa/static/css/main.63500e61.chunk.css",
+    "main.js": "/fanikauppa/static/js/main.b63ddcd9.chunk.js",
+    "main.js.map": "/fanikauppa/static/js/main.b63ddcd9.chunk.js.map",
+    "runtime-main.js": "/fanikauppa/static/js/runtime-main.845ccbcf.js",
+    "runtime-main.js.map": "/fanikauppa/static/js/runtime-main.845ccbcf.js.map",
+    "static/js/2.a35fd71d.chunk.js": "/fanikauppa/static/js/2.a35fd71d.chunk.js",
+    "static/js/2.a35fd71d.chunk.js.map": "/fanikauppa/static/js/2.a35fd71d.chunk.js.map",
+    "index.html": "/fanikauppa/index.html",
+    "precache-manifest.9f60234fa3e027e452b9f87d6bf1f13c.js": "/fanikauppa/precache-manifest.9f60234fa3e027e452b9f87d6bf1f13c.js",
+    "service-worker.js": "/fanikauppa/service-worker.js",
+    "static/css/main.63500e61.chunk.css.map": "/fanikauppa/static/css/main.63500e61.chunk.css.map",
+    "static/js/2.a35fd71d.chunk.js.LICENSE.txt": "/fanikauppa/static/js/2.a35fd71d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fanikauppa/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845ccbcf.js",
+    "static/js/2.a35fd71d.chunk.js",
+    "static/css/main.63500e61.chunk.css",
+    "static/js/main.b63ddcd9.chunk.js"
+  ]
+}
